@@ -3,8 +3,10 @@
 #yuzkuncode
 
 Usefull links:
-
-Telegram : (https://t.me/khojiakbar_uz)
+  
+- Frontend Mentor - [@khojiakbargofurov](https://www.frontendmentor.io/profile/khojiakbargofurov)
+- Telegram - [@Khojiakbar_uz](https://t.me/khojiakbar_uz)
+- Instagram - [@khojiakbar.uz](https://www.instagram.com/khojiakbar.uz)
 
 Bu chellenj orqali 100  kun davomida har kuni to'xtasdan kamida 1 soat kod yoziladi va har kuni loyiha linki , strim Shahsiy blogim orqali ommaga uzatib boriladi. 
 
