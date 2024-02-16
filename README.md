@@ -4,13 +4,13 @@
 
 # My Social Links
 
-[![Instagram](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/instagram.svg)](https://www.instagram.com/khojiakbar.uz/)
+[![Instagram](https://fontawesome.com/icons/instagram?f=brands&s=solid)](https://www.instagram.com/khojiakbar.uz/)
 
-[![Telegram](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/telegram.svg)](https://t.me/khojiakbar_uz)
+[![Telegram](https://https://fontawesome.com/icons/telegram?f=brands&s=solid)](https://t.me/khojiakbar_uz)
 
-[![GitHub](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/github.svg)](https://github.com/khojiakbargofurov)
+[![GitHub](https://fontawesome.com/icons/github?f=brands&s=solid)](https://github.com/khojiakbargofurov)
 
-[![Frontend Mentor](https://raw.githubusercontent.com/frontend-mentor/brand/master/icons/logo.svg)](https://www.frontendmentor.io/profile/khojiakbargofurov)
+
 
 <!-- - Frontend Mentor - [@khojiakbargofurov](https://www.frontendmentor.io/profile/khojiakbargofurov)
 - Telegram - [@Khojiakbar_uz](https://t.me/khojiakbar_uz)
